@@ -1,0 +1,6 @@
+[Activity]
+name = Echo
+activity_version = 1
+bundle_id = kiru.sugar.echo
+exec = sugar-activity-web
+icon = activity-icon

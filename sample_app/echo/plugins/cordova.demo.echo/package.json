@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "name": "cordova.demo.echo",
+  "cordova_name": "Echo",
+  "description": "Cordova Echo Plugin",
+  "license": "Apache 2.0",
+  "keywords": [
+    "cordova",
+    "echo"
+  ],
+  "platforms": [
+    "sugar"
+  ]
+}
